@@ -21,7 +21,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-waelfz.com-202124?style=for-the-badge&logo=globe)](https://www.waelfz.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wael--fezari-202124?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wael-fezari/)
 [![Instagram](https://img.shields.io/badge/Instagram-wauul-202124?style=for-the-badge&logo=instagram)](https://www.instagram.com/wauul/)
-[![Email](https://img.shields.io/badge/Email-youremail%40example.com-202124?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/Email-waelfezari%40gmail.com-202124?style=for-the-badge&logo=gmail)](mailto:waelfezari@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-wauul-202124?style=for-the-badge&logo=github)](https://github.com/wauul)
 
 </div>
@@ -94,7 +94,7 @@ Six things I've built — most of them live:
 
 ## 🤝 Contact
 
-- 📬 **Email:** [youremail@example.com](mailto:youremail@example.com) ← *replace me*
+- 📬 **Email:** [waelfezari@gmail.com](mailto:waelfezari@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/wael-fezari](https://www.linkedin.com/in/wael-fezari/)
 - 🌐 **Portfolio:** [waelfz.com](https://www.waelfz.com/) · [wael-fezari.vercel.app](https://wael-fezari.vercel.app/)
 
