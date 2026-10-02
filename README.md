@@ -91,7 +91,7 @@ Six things I've built — most of them live:
 ## 🤝 Contact
 
 - 📬 **Email:** [waelfezari@gmail.com](mailto:waelfezari@gmail.com)
-- 📱 **WhatsApp:** [wa.me/0000000000](https://wa.me/0000000000) ← *replace with your number*
+- 📱 **WhatsApp:** @wauul
 - 💼 **LinkedIn:** [linkedin.com/in/wael-fezari](https://www.linkedin.com/in/wael-fezari/)
 - 🌐 **Portfolio:** [waelfz.com](https://www.waelfz.com/) · [wael-fezari.vercel.app](https://wael-fezari.vercel.app/)
 
