@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Wael%20Fezari&fontAlignY=70&animation=fadeIn" alt="Wael Fezari banner" />
 
-<br />
-
-<img src="https://avatars.githubusercontent.com/u/39927029?v=4" width="150" alt="Wael Fezari avatar" />
-
 <p align="center"><em>"Innovating one project at a time" 🚀</em></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&color=7C3AED&lines=AI-Driven%20Developer;Full-Stack%20Web%20%26%20Mobile;TypeScript%20%7C%20Next.js%20%7C%20Capacitor;Webhooks%20%26%20APIs;Based%20in%20Marseille" alt="Typing animation" />
@@ -45,7 +41,7 @@ AI-driven developer with an MSc in Software, Web & Mobile Development (Epitech M
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,docker,githubactions,vercel,tailwind,git,figma&perline=6" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,docker,githubactions,vercel,tailwind,git,figma,python,django,firebase,kotlin,azure,gcp&perline=6" alt="Tech stack icons" />
 
 </div>
 
@@ -102,6 +98,6 @@ Six things I've built — most of them live:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&animation=fadeIn" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Wael%20Fezari&fontAlignY=70&animation=fadeIn" alt="Wael Fezari footer banner" />
 
 </div>
