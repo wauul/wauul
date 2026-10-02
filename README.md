@@ -98,6 +98,6 @@ Six things I've built — most of them live:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Wael%20Fezari&fontAlignY=70&animation=fadeIn" alt="Wael Fezari footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&animation=fadeIn&section=footer" alt="Footer banner" />
 
 </div>
